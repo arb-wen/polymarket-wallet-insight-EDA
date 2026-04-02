@@ -33,7 +33,7 @@
 * [Get closed positions for a user](https://docs.polymarket.com/api-reference/core/get-closed-positions-for-a-user)
 * [Get event by slug](https://docs.polymarket.com/api-reference/events/get-event-by-slug)
 
-## 本地运行
+## 本地运行（终端窗口先进入polymarket-streamlit-eda文件夹后运行）
 
     pip install -r requirements.txt
     streamlit run app.py
@@ -94,7 +94,7 @@ This project uses official Polymarket APIs:
 * [Get closed positions for a user](https://docs.polymarket.com/api-reference/core/get-closed-positions-for-a-user)
 * [Get event by slug](https://docs.polymarket.com/api-reference/events/get-event-by-slug)
 
-## Run Locally
+## Run Locally（After cd polymarket-streamlit-eda）
 
     pip install -r requirements.txt
     streamlit run app.py
